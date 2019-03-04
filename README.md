@@ -1,3 +1,11 @@
+Project realized in React by Mariane Champalier and Antoine Castel for an ECE course.
+
+It is a simple website for handling the management of an amusement park attractions and facilities. 
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
