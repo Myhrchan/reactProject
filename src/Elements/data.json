@@ -1,0 +1,213 @@
+{
+  "attractions": {
+    "head": [
+      "ID",
+      "Nom",
+      "Date d'installation",
+      "Prix d'entrée (€) "
+    ],
+    "data": [
+      [
+        1,
+        "Grand Huit",
+        "1995-07-26",
+        10
+      ],
+      [
+        2,
+        "Montagnes Russes",
+        "1995-07-27",
+        7
+      ],
+      [
+        3,
+        "Maison des Poupées",
+        "1995-07-28",
+        5
+      ],
+      [
+        4,
+        "Manège des soucoupes",
+        "1997-07-28",
+        5
+      ]
+    ]
+  },
+  "buildings": {
+    "head": [
+      "ID",
+      "Nom",
+      "Date d'installation"
+    ],
+    "data": [
+      [
+        1,
+        "Magasin Souvenir",
+        "1995-07-28"
+      ],
+      [
+        2,
+        "Magasin Glace",
+        "1996-07-28"
+      ],
+      [
+        3,
+        "Entree",
+        "1995-10-28"
+      ],
+      [
+        4,
+        "Restaurant",
+        "1995-10-30"
+      ],
+      [
+        5,
+        "Toilettes",
+        "1995-11-15"
+      ],
+      [
+        6,
+        "Garage",
+        "1996-01-15"
+      ]
+    ]
+  },
+  "staff": {
+    "head": [
+      "ID",
+      "Nom",
+      "Prenom",
+      "Age",
+      "Fonction",
+      "Salaire (€) "
+    ],
+    "data": [
+      [
+        1,
+        "Smith",
+        "Adam",
+        53,
+        "Directeur",
+        3000
+      ],
+      [
+        2,
+        "Dubois",
+        "Marie",
+        24,
+        "Agent d'accueil",
+        1500
+      ],
+      [
+        3,
+        "Carré",
+        "Marcus",
+        35,
+        "Assistant technique",
+        2000
+      ],
+      [
+        4,
+        "Masse",
+        "Barbara",
+        29,
+        "Technicien",
+        1800
+      ],
+      [
+        5,
+        "Aurel",
+        "Paul",
+        31,
+        "Technicien",
+        1800
+      ]
+    ]
+  },
+  "maintenance": {
+    "head": [
+      "ID",
+      "Date de la dernière maintenance",
+      "Date de la prochaine maintenance",
+      "Attraction associée",
+      "Technicien associé"
+    ],
+    "data": [
+      [
+        1,
+        "2018-07-26",
+        "2018-11-12",
+        1,
+        3
+      ],
+      [
+        2,
+        "2018-07-26",
+        "2018-12-23",
+        2,
+        4
+      ],
+      [
+        3,
+        "2018-07-28",
+        "2018-11-12",
+        3,
+        5
+      ],
+      [
+        4,
+        "2018-07-28",
+        "2018-11-12",
+        3,
+        4
+      ],
+      [
+        5,
+        "2018-07-28",
+        "2018-11-12",
+        1,
+        4
+      ]
+    ]
+  },
+  "statistics": {
+    "head": [
+      "ID",
+      "Date",
+      "Nombre de visiteurs du jour",
+      "Recette du jour (€) "
+    ],
+    "data": [
+      [
+        1,
+        "2018-10-28",
+        300,
+        3000
+      ],
+      [
+        2,
+        "2018-10-29",
+        200,
+        1400
+      ],
+      [
+        3,
+        "2018-10-30",
+        230,
+        1150
+      ],
+      [
+        4,
+        "2018-10-31",
+        300,
+        3000
+      ],
+      [
+        5,
+        "2018-11-01",
+        200,
+        1400
+      ]
+    ]
+  }
+}

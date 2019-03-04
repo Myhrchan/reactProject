@@ -1,0 +1,10 @@
+th, .editButtons{
+  background-color: #008CBF;
+  color: white;
+}
+
+.tableau{
+
+  box-shadow: 4px 4px 8px 4px #333745;
+  margin-top: 2%;
+}
